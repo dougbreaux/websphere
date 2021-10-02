@@ -1,8 +1,6 @@
-# websphere
-Files related to WebSphere Application Server
+# WebSphere Application Server scripts
+In particular, [wsadmin](https://www.ibm.com/docs/en/was-nd/9.0.5?topic=scripting-wsadmin-tool) Python scripts.
 
 See publicly-available [wasadminlib.py](https://github.com/wsadminlib/wsadminlib) for some wsadmin scripting supporting capabilities.
-
-* [addJvmProperty.py](https://dougbreaux.github.io/2011/02/18/wsadmin-jvm-properties.html)
 
 Related posts on my blog [https://dougbreaux.github.io/search/?q=wsadmin](https://dougbreaux.github.io/search/?q=wsadmin)
