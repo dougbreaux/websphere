@@ -2,7 +2,7 @@ _urls = {
 	'dougTest2':'http://joe.schmoe.me',
 }
 
-def createUrl(provider, name, spec):
+def createUrl(provider, key, spec):
 	name = ['name', key]
 	# same JNDI name with url/ prefix added
 	jndiName = ['jndiName', 'url/' + key]
